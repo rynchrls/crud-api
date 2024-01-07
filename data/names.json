@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dianne Loraine Montecalvo",
+    "age": "20 yrs old",
+    "profession": "Accounting and Finance",
+    "pronouns": "her/she",
+    "id": "be0ab972-05cd-42a2-81bb-bb97b067f9fa"
+  },
+  {
+    "id": "38f058a5-a5ef-4029-b056-ba45e93e1541",
+    "name": "Johann ",
+    "age": "21 ",
+    "profession": "Hospitality ",
+    "pronouns": "him"
+  },
+  {
+    "id": "f8a04803-78b9-4d2a-84a3-6173b5839bce",
+    "name": "Ryan",
+    "age": "22",
+    "profession": "Web",
+    "pronouns": "his"
+  }
+]
